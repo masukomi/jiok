@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	SUMMARY   = "https://www.githubstatus.com/api/v2/components.json"
-	INCIDENTS = "https://www.githubstatus.com/api/v2/incidents/unresolved.json"
+	SUMMARY   = "https://jira-software.status.atlassian.com/api/v2/components.json"
+	INCIDENTS = "https://jira-software.status.atlassian.com/api/v2/incidents/unresolved.json"
 
 	NONE     = "✅"
 	MINOR    = "🟡"

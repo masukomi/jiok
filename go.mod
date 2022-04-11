@@ -1,3 +1,3 @@
-module github.com/abennett/ghok
+module github.com/masukomi/jiok
 
 go 1.17

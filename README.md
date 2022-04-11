@@ -1,4 +1,4 @@
-`jiok` is a very small CLI to check [Jira's status](https://jira-software.status.atlassian.com/) and incidents from the terminal.
+`jiok` (JIra are you OK?) is a very small CLI to check [Jira's status](https://jira-software.status.atlassian.com/) and incidents from the terminal.
 
 Based on Aaron Bennet's [ghok](https://github.com/abennett/ghok#readme) which does the same for Github. All I did was change the URL because they have identical APIs.
 
